@@ -1,0 +1,21 @@
+body{
+    
+    background: linear-gradient(325deg, #b5b5ff 0, #486ee5 50%, #0033b0 100%);
+}
+.tarjeta{
+    display: flex;
+    justify-content: center;
+}
+
+.text_info{
+    margin: auto;
+    
+}
+.text_info h2{
+    margin-bottom: 2rem;
+    font-weight: 600;
+}
+.text_info p{
+    font-size: large;
+    font-weight: 600;
+}
